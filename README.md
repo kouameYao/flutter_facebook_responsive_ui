@@ -5,7 +5,6 @@ Pré-requis
 # Dites ce qu'il faut faire...
 
 Clonez le projet puis installer les packages avec 
-
 Ensuite vous pouvez montrer ce que vous obtenez au final...
 
 Démarrage
